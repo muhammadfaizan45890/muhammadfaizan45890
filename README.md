@@ -20,7 +20,7 @@
   <li>🔭 **Currently working on** <b>Android Applications</b> and scalable <b>MERN stack projects</b>.</li>
   <li>🌱 **Exploring** <b>AI, Machine Learning, and Cloud Computing</b>.</li>
   <li>💬 **Ask me about** <b>Full-Stack Development, Android, and DevOps</b>.</li>
-  <li>📫 **Reach me at**: <a href="mailto:muhammadfaizan45890@gmail.com" style="text-decoration: none; color: #6a0dad;"><b>muhammadfaizan.co@gmail.com</b></a>.</li>
+  <li>📫 **Reach me at**: <a href="/" style="text-decoration: none; color: #6a0dad;"><b>muhammadfaizan45890@gmail.com</b></a>.</li>
   <li>⚡ **Fun fact**: Debugging is my cardio! 🚴‍♂️</li>
 </ul>
 
