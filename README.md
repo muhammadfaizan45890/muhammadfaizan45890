@@ -20,7 +20,7 @@
   <li>🔭 **Currently working on** <b>Android Applications</b> and scalable <b>MERN stack projects</b>.</li>
   <li>🌱 **Exploring** <b>AI, Machine Learning, and Cloud Computing</b>.</li>
   <li>💬 **Ask me about** <b>Full-Stack Development, Android, and DevOps</b>.</li>
-  <li>📫 **Reach me at**: <a href="mailto:muhammadfaizan.co@gmail.com" style="text-decoration: none; color: #6a0dad;"><b>muhammadfaizan.co@gmail.com</b></a>.</li>
+  <li>📫 **Reach me at**: <a href="mailto:muhammadfaizan45890@gmail.com" style="text-decoration: none; color: #6a0dad;"><b>muhammadfaizan.co@gmail.com</b></a>.</li>
   <li>⚡ **Fun fact**: Debugging is my cardio! 🚴‍♂️</li>
 </ul>
 
@@ -32,13 +32,13 @@
   <a href="https://twitter.com/your_twitter_handle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"/>
   </a>
-  <a href="https://www.linkedin.com/in/muhammadcode02" target="_blank">
+  <a href="/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/your_instagram_handle" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
   </a>
-  <a href="https://youtube.com/@muhammadcode02?feature=shared" target="_blank">
+  <a href="/" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube"/>
   </a>
 </p>
