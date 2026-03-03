@@ -67,7 +67,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=muhammad&show_icons=true&theme=tokyonight&title_color=purple&icon_color=purple&text_color=a0a0a0&bg_color=0d1117" alt="GitHub Stats" width="400" />
  
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad&theme=tokyonight&ring=purple&fire=purple&currStreakLabel=purple" alt="GitHub Streak" width="400" />
+  
   
   <!-- Most Used Languages -->
   
